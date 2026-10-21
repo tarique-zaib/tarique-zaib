@@ -1,40 +1,69 @@
-# Hi, I'm Tarique Zaib 👋
+# 👋 Hi, I'm Tarique Zaib
 
-### Senior Full Stack Engineer | .NET & Azure | React | AI Engineering
+### `Senior Full Stack Engineer` · `.NET & Azure` · `AI Engineering`
 
-I build full-stack applications, backend APIs, and cloud-ready software using the Microsoft ecosystem and modern web technologies. My focus is clean architecture, maintainable code, secure APIs, and practical solutions to real-world problems.
+**I turn complex business requirements into maintainable software, secure APIs, and modern full-stack applications.**
 
-- 🔭 **Building:** Full-stack platforms, AI-assisted applications, and developer tools
-- 💻 **Backend:** C#, .NET, ASP.NET Core, Web API, Entity Framework Core
-- 🎨 **Frontend:** React, TypeScript, Angular, Blazor
-- ☁️ **Cloud & DevOps:** Azure, Azure Functions, Azure Service Bus, Azure DevOps, CI/CD
-- 🗄️ **Data:** SQL Server, PostgreSQL, MongoDB
-- 🏗️ **Architecture:** Microservices, Clean Architecture, API design
-- 🤖 **AI interests:** Local LLMs, AI-assisted workflows, intelligent applications
-
-## Featured Projects
-
-| Project | Overview |
-|---|---|
-| [DraftLex](https://github.com/tarique-zaib/DraftLex) | Legal drafting and workflow application |
-| [ProgressiveMinds](https://github.com/tarique-zaib/Progressiveminds) | Coaching institute management platform |
-| [Migsun Sales Intelligence AI](https://github.com/tarique-zaib/MigsunSalesIntelligenceAI) | Independent sales intelligence prototype |
-| [EchoAI](https://github.com/tarique-zaib/EchoAI) | AI-focused application project |
-| [TalentBridgeSearch](https://github.com/tarique-zaib/TalentBridgeSearch) | IT recruitment platform concept |
-| [SkillSwap](https://github.com/tarique-zaib/SkillSwap) | Skills-sharing application project |
-
-## Engineering Principles
-
-- Build secure, maintainable, and testable software
-- Prefer clear architecture and separation of concerns
-- Automate builds and repetitive engineering tasks
-- Use AI pragmatically, with attention to reliability and security
-- Document setup instructions and technical decisions
-
-## Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/tarique-zaib-35877a4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tarique-zaib-35877a4/)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github)](https://github.com/tarique-zaib)
 
 ---
 
-*Thanks for visiting my GitHub profile!*
+## ⚡ Engineering Focus
+
+- 🏗️ **Backend:** C#, .NET, ASP.NET Core, Web APIs, Entity Framework Core
+- 🎨 **Frontend:** React, TypeScript, Angular, Blazor
+- ☁️ **Cloud & DevOps:** Azure, Azure Functions, Azure Service Bus, Azure DevOps, CI/CD
+- 🗄️ **Data:** SQL Server, PostgreSQL, MongoDB
+- 🧩 **Architecture:** Clean Architecture, microservices, API design
+- 🤖 **AI:** Local LLMs, AI-assisted workflows, intelligent applications
+
+## 🚀 Featured Projects
+
+| Project | What I'm building |
+|---|---|
+| [⚖️ DraftLex](https://github.com/tarique-zaib/DraftLex) | Legal drafting and workflow application |
+| [🎓 ProgressiveMinds](https://github.com/tarique-zaib/Progressiveminds) | Coaching institute management platform |
+| [📊 Migsun Sales Intelligence AI](https://github.com/tarique-zaib/MigsunSalesIntelligenceAI) | Independent sales intelligence prototype |
+| [🧠 EchoAI](https://github.com/tarique-zaib/EchoAI) | AI-focused application project |
+| [🤝 TalentBridgeSearch](https://github.com/tarique-zaib/TalentBridgeSearch) | IT recruitment platform concept |
+| [💡 SkillSwap](https://github.com/tarique-zaib/SkillSwap) | Skills-sharing application project |
+
+## 🛠️ Technology Stack
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarique-zaib&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarique-zaib&layout=compact&theme=github_dark&hide_border=true)
+
+*Stats are generated by an external service and may occasionally be unavailable.*
+
+## 🧭 How I Approach Engineering
+
+- Design for maintainability, security, and testability.
+- Keep business logic separate from infrastructure concerns.
+- Automate builds and repetitive engineering tasks.
+- Use AI pragmatically, with attention to reliability and security.
+- Document technical decisions and make projects easier to run.
+
+## 🤝 Let's Connect
+
+I'm interested in meaningful engineering challenges involving .NET, Azure, full-stack development, software architecture, and practical AI applications.
+
+**[Connect with me on LinkedIn](https://www.linkedin.com/in/tarique-zaib-35877a4/)** · **[Explore my repositories](https://github.com/tarique-zaib?tab=repositories)**
+
+---
+
+*Building thoughtfully. Learning continuously. Shipping responsibly.*
