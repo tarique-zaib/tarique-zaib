@@ -254,18 +254,6 @@ Across technologies and projects, I aim to apply the following principles:
 
 > Technology badges and tool lists describe areas of experience or interest; they do not imply that every technology is used in every project.
 
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
 ## 📈 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarique-zaib&show_icons=true&theme=github_dark&hide_border=true)
@@ -287,6 +275,56 @@ Across technologies and projects, I aim to apply the following principles:
 I'm interested in meaningful engineering challenges involving .NET, Azure, full-stack development, software architecture, and practical AI applications.
 
 **[Connect with me on LinkedIn](https://www.linkedin.com/in/tarique-zaib-35877a4/)** · **[Explore my repositories](https://github.com/tarique-zaib?tab=repositories)**
+
+---
+
+## 🚀 Featured Projects
+
+### ⚖️ DraftLex — Legal Practice Management
+**Purpose:** A legal technology platform for managing clients, matters, hearings, and legal documents.
+
+- **Technology:** C#, ASP.NET Core, React, PostgreSQL
+- **Focus:** Legal workflows, matter management, hearing schedules, document drafting
+- **Repository:** [View DraftLex](https://github.com/tarique-zaib/DraftLex)
+
+### 🤖 EchoAI — AI-Powered Application
+**Purpose:** Showcase AI capabilities through a dedicated software project.
+
+- **Technology:** See repository for the verified stack
+- **Focus:** AI functionality and application engineering
+- **Repository:** [View EchoAI](https://github.com/tarique-zaib/EchoAI)
+
+### 📊 Migsun Sales Intelligence AI
+**Purpose:** A sales intelligence application designed to support real estate sales workflows.
+
+- **Technology:** React, TypeScript, ASP.NET Core, .NET
+- **Focus:** Sales analytics, API development, build validation
+- **Repository:** [View MigsunSalesIntelligenceAI](https://github.com/tarique-zaib/MigsunSalesIntelligenceAI)
+
+### 🔄 SkillSwap — Skill Exchange Platform
+**Purpose:** A platform concept for connecting people who want to exchange skills.
+
+- **Technology:** See repository for the verified stack
+- **Focus:** User workflows and skill discovery
+- **Repository:** [View SkillSwap](https://github.com/tarique-zaib/SkillSwap)
+
+### 👥 TalentBridge Search — Recruitment CRM
+**Purpose:** A recruitment management application for organizing hiring workflows.
+
+- **Technology:** React, TypeScript, .NET
+- **Focus:** Client, candidate, job, interview, and placement management
+- **Repository:** [View TalentBridgeSearch](https://github.com/tarique-zaib/TalentBridgeSearch)
+
+### 🎓 ProgressiveMinds — Coaching Institute Platform
+**Purpose:** A management platform for competitive-exam coaching operations.
+
+- **Technology:** React, TypeScript, ASP.NET Core, PostgreSQL, Apache Kafka
+- **Focus:** Authentication, institute workflows, and event-driven processing
+- **Repository:** [View ProgressiveMinds](https://github.com/tarique-zaib/Progressiveminds)
+
+---
+
+*Project descriptions and technology lists should reflect implemented features. Some details above are intended as summaries and should be verified against each repository before publication.*
 
 ---
 
