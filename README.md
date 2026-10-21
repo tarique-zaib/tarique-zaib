@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="c884d25f-73c4-4fb4-b73d-be6b0b398e57.png" alt="Tarique Zaib — Senior Full Stack Engineer" width="100%">
+</p>
+
 # 👋 Hi, I'm Tarique Zaib
 
 ### `Senior Full Stack Engineer` · `.NET & Azure` · `AI Engineering`
